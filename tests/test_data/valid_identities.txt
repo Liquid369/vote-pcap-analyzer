@@ -1,0 +1,5 @@
+# Test Identity File - Valid Validators Only
+# This file contains only known valid validator identities for testing
+FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ
+5ZjxMYBbnKd4VFxLjAChSWMTeQ96147HnxZvQJxUseHV
+DTELykegBxxEn9c15GbH1zbYFr9CFd8VHQnhTGfz5JLb

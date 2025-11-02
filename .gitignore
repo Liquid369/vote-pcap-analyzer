@@ -1,0 +1,20 @@
+# Exclude folder contents but keep directories
+/sources/*
+!/sources/.gitkeep
+/output/*
+!/output/.gitkeep
+
+# Standard ignores
+/target
+/.github
+/.vscode
+
+# Prevent output files in wrong locations
+analysis.csv
+analysis.json
+*.csv
+*.json
+
+# Prevent temporary test files in project root
+test_*.rs
+/src/test_*.rs

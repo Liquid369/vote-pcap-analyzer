@@ -1,0 +1,9 @@
+# Test Identity File - Mixed Valid and Invalid
+# This file contains both valid and invalid validator identities for testing error handling
+FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ
+InvalidValidatorIdentityForTesting123456789
+5ZjxMYBbnKd4VFxLjAChSWMTeQ96147HnxZvQJxUseHV
+NotARealValidatorIdentity
+DTELykegBxxEn9c15GbH1zbYFr9CFd8VHQnhTGfz5JLb
+TooShort
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

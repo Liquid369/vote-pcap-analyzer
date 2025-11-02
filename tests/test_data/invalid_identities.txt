@@ -1,0 +1,7 @@
+# Test Identity File - Only Invalid Validators
+# This file contains only invalid validator identities to test error handling
+InvalidValidatorIdentityForTesting123456789
+NotARealValidatorIdentity
+TooShort
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ThisIsDefinitelyNotAValidSolanaValidatorIdentityAddress12345
